@@ -10,7 +10,7 @@
 <p>This repository contains code and analysis for assessing the effectiveness of a marketing campaign conducted by a Portuguese banking institution. The goal is to predict whether a client will subscribe to a term deposit based on direct marketing campaign data.</p>
 
 <p>To access the Jupyter Notebook, follow the link below:</p>
-<a href="https://github.com/fcely/MLClasifiers/prompt.ipynb">Jupyter Notebook</a>
+<a href="https://github.com/fcely/MLClasifiers/blob/main/prompt.ipynb">Jupyter Notebook</a>
 
 
 <h2>Table of Contents</h2>
