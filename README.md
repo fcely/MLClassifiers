@@ -42,14 +42,14 @@
 
 <p>An initial analysis is performed to gain insights into the dataset, such as success rates, peak subscription months, and the impact of various variables on subscription rates. From this analysis it is identify 12% as the success rate for the population, also some key varaibles like month, duration and education that seem to determine the success rate.</p>
 
-<img src="https://github.com/fcely/MLClasifiers/images/Exploratory.jpg" alt="Exploratory">
+<img src="https://github.com/fcely/MLClasifiers/images/Exploratory.png" alt="Exploratory">
 
 
 <h2>Correlation Analysis</h2>
 
 <p>A correlation matrix is generated to identify relationships between numerical variables and assess multicollinearity.</p>
 
-<img src="https://github.com/fcely/MLClasifiers/images/correlation.jpg" alt="Correlation">
+<img src="https://github.com/fcely/MLClasifiers/images/correlation.png" alt="Correlation">
 
 <h2>Data Preparation</h2>
 
