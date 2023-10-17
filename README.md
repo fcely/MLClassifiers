@@ -10,7 +10,7 @@
 <p>This repository contains code and analysis for assessing the effectiveness of a marketing campaign conducted by a Portuguese banking institution. The goal is to predict whether a client will subscribe to a term deposit based on direct marketing campaign data.</p>
 
 <p>To access the Jupyter Notebook, follow the link below:</p>
-<a href="https://github.com/fcely/MLClasifiers/tree/main/prompt.ipynb">Jupyter Notebook</a>
+<a href="https://github.com/fcely/MLClassifiers/tree/main/prompt.ipynb">Jupyter Notebook</a>
 
 
 <h2>Table of Contents</h2>
@@ -42,14 +42,14 @@
 
 <p>An initial analysis is performed to gain insights into the dataset, such as success rates, peak subscription months, and the impact of various variables on subscription rates. From this analysis it is identify 12% as the success rate for the population, also some key varaibles like month, duration and education that seem to determine the success rate.</p>
 
-<img src="https://github.com/fcely/MLClasifiers/tree/main/images/Exploratory.png" alt="Exploratory">
+<img src="https://github.com/fcely/MLClassifiers/tree/main/images/Exploratory.png" alt="Exploratory">
 
 
 <h2>Correlation Analysis</h2>
 
 <p>A correlation matrix is generated to identify relationships between numerical variables and assess multicollinearity.</p>
 
-<img src="https://github.com/fcely/MLClasifiers/tree/main/images/correlation.png" alt="Correlation">
+<img src="https://github.com/fcely/MLClassifiers/tree/main/images/correlation.png" alt="Correlation">
 
 <h2>Data Preparation</h2>
 
