@@ -85,11 +85,8 @@
 
 <h2>License</h2>
 
-<p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
+<p>This project is licensed under the <a href="LICENSE">FCely License</a>.</p>
 
-<hr>
-
-<p><em>Note: You should customize this README file with specific details about your project, installation instructions, and any other relevant information. Update the table of contents, and make sure to include information about how to install and use your code. Additionally, ensure that you have the necessary license and documentation for your project.</em></p>
 
 </body>
 </html>
